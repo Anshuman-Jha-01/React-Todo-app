@@ -1,0 +1,26 @@
+input {
+    background-color:antiquewhite;
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+}
+
+li {
+    margin-top: 0.5rem;
+}
+
+button {
+    margin-left: 0.5rem;
+    background-color: antiquewhite;
+}
+
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background-color: #a7d747e4;
+    border-radius: 5rem;
+    box-shadow: 2px 2px 8px 1px black;
+    color: rgb(33, 33, 76);
+    font-weight: 500;
+}
